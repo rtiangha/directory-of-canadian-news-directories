@@ -11,6 +11,9 @@ Many organizations have already put the work into developing these directories, 
 
 This list is not exhaustive. If you feel that other directories should be included, then [Pull Requests](https://github.com/rtiangha/directory-of-canadian-news-directories/pulls) are welcome.
 
+## How to Use
+If you can't remember the URL to your favourite online news website (and it's no longer appearing on search engines like Google), or if you're looking for other news websites in your area, use one of the news website directories below to try and find it.
+
 ## CBC Local News Directory
 [CBC/Radio-Canada](https://cbc.ca) created a local news directory to help Canadians find and support local news sources in their communities.
 
